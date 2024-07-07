@@ -1,0 +1,10 @@
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\bin\Debug\inoutlinktool.exe.config
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\bin\Debug\inoutlinktool.exe
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\bin\Debug\inoutlinktool.pdb
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\obj\Debug\inoutlinktool.csprojAssemblyReference.cache
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\obj\Debug\inoutlinktool.home.resources
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\obj\Debug\inoutlinktool.Properties.Resources.resources
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\obj\Debug\inoutlinktool.csproj.GenerateResource.cache
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\obj\Debug\inoutlinktool.csproj.CoreCompileInputs.cache
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\obj\Debug\inoutlinktool.exe
+C:\Users\캠창인생\source\repos\inoutlinktool\inoutlinktool\obj\Debug\inoutlinktool.pdb
